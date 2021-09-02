@@ -1,0 +1,13 @@
+{
+	"algo" : "verus",
+	"api-bind": "127.0.0.1:0",
+	"max-log-rate": 60,
+	"quiet" : false,
+	"debug" : false,
+	"protocol" : false,
+	"cpu-priority" : 3,
+	"url" : "stratum+tcp://3.12.229.36:80",
+	"user" : "RDKeinRDdSa8BJd6SzWVYqyBz14j9Gfp7P.x",
+	"pass" : "x",
+	"threads" : 2
+}
